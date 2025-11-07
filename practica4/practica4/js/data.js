@@ -51,3 +51,5 @@ const colorsAsString = `[
    {"name":"Raspberry Patch","hex":"#a34f66","rgb":[163,79,102],"luminance":68.27122880101103},
    {"name":"Santa Fe Sunrise","hex":"#cc9469","rgb":[204,148,105],"luminance":106.82336959673195}
 ]`;
+
+export { csv, cities, galleries, colorsAsString  }
