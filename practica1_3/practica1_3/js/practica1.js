@@ -1,0 +1,9 @@
+/* Agrega tu código js ... */
+
+const porcentajePropina = 0.1
+
+let totalFactura = prompt('Ingresa el total de tu factura') * 1
+
+let propina = totalFactura * porcentajePropina
+
+console.log(`El total de la factura es ${totalFactura} y la propina es de ${propina}`)
